@@ -1,0 +1,10 @@
+[
+  {
+    "university": "SMU",
+    "code": "IS101",
+    "name": "IT and Digital Transformation",
+    "faculty": "Information Systems",
+    "level": 1,
+    "key_topics": ["Digital Trends", "IT Infrastructure", "Data Analytics", "Business Transformation"]
+  }
+]
