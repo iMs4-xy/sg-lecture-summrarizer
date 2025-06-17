@@ -1,0 +1,18 @@
+[
+  {
+    "university": "NUS",
+    "code": "CS1010",
+    "name": "Programming Methodology",
+    "faculty": "Computing",
+    "level": 1,
+    "key_topics": ["Python Basics", "Control Structures", "Functions", "Recursion"]
+  },
+  {
+    "university": "NUS",
+    "code": "EC2101",
+    "name": "Microeconomic Analysis",
+    "faculty": "Economics",
+    "level": 2,
+    "key_topics": ["Consumer Theory", "Producer Theory", "Market Structures", "Game Theory"]
+  }
+]
